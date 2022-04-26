@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4874f2a-a305-4f35-a04a-c688c644a323": {
+      "ProjectGuid": "b4874f2a-a305-4f35-a04a-c688c644a323",
+      "DisplayName": "GameService",
+      "ColorIndex": 0
+    },
+    "346898bb-3528-4ef5-9836-7870bd786e09": {
+      "ProjectGuid": "346898bb-3528-4ef5-9836-7870bd786e09",
+      "DisplayName": "Gateway",
+      "ColorIndex": 1
+    },
+    "4406a4b3-3f01-4c5e-bc3e-d5ce2541a076": {
+      "ProjectGuid": "4406a4b3-3f01-4c5e-bc3e-d5ce2541a076",
+      "DisplayName": "UserService",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
